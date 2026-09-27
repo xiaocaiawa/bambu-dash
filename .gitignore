@@ -1,0 +1,7 @@
+﻿bambu_dash.json
+*.log
+bambu_截图/
+打印机下载/
+*.exe
+__pycache__/
+
